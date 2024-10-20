@@ -1,5 +1,19 @@
 # <b><u>main</b></u>
-
+Structure:
+- [ Markdown-Toc-Generator](#markdown-toc-generator)
+- [ How to use](#how-to-use)
+  - [ Requirements](#requirements)
+  - [ Usage](#usage)
+    - [ Download](#download)
+    - [ Options](#options)
+      - [ Required options](#required-options)
+      - [ Optional options](#optional-options)
+    - [ Run](#run)
+  - [ Create your own build](#create-your-own-build)
+    - [ Requirements](#requirements)
+    - [ Build](#build)
+   
+  
 The script will eventually be modular
 Altho not there yet, the modules are starting to take shape along following lines:
 
