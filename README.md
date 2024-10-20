@@ -1,10 +1,10 @@
-# main
+# <b><u>main</b></u>
 
 The script will eventually be modular
 Altho not there yet, the modules are starting to take shape along following lines:
 
 
-### **Script Content*
+### *Script Content*
 
 1.
 2.
@@ -15,7 +15,7 @@ Altho not there yet, the modules are starting to take shape along following line
 7.
 8.
 
-### **Repository Content*
+### *Repository Content*
 1) ### start.sh
     asks for username and passphrase if match prompts user for default or interactive installation
     in case of interactive presents the form or otherwise runs with main.3.sh 
