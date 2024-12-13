@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/batann/main/images/logo.png">
+  <a href="https://github.com/batann/main/logo.png">
     <img src="images/logo.png" alt="Logo" width="512" height="512">
   </a>
 
